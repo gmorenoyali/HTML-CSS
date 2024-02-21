@@ -53,18 +53,18 @@ footer {
     width: 100%;
 }
 
-.social-media{
+footer ul.social-media{
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-.social-media li {
+footer ul.social-media li {
     display: inline;
     margin-right: 10px;
 }
 
-.social-media li a {
+footer ul.social-media li a {
     color:#fff;
     text-decoration: none;
 }
